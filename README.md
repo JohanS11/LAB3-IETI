@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 
+
+## This app was deployed in
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://https://lit-tundra-50685.herokuapp.com)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://ietilab11.z20.web.core.windows.net)
+
 ## Available Scripts
 
 In the project directory, you can run:
