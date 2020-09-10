@@ -14,8 +14,9 @@ LAB4 DEPLOY AZURE
 
 CREDENTIALS :
 
-chan@mail.com
-chan123
+email : chan@mail.com
+
+pw : chan123
 
 ## Available Scripts
 
