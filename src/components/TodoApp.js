@@ -178,7 +178,6 @@ export class TodoApp extends Component {
             responsible :''
         }));
         this.handleOpen();
-        this.handleFiltering();
     }
 
 }
