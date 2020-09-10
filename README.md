@@ -4,7 +4,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## This app was deployed in
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://lit-tundra-50685.herokuapp.com)
+
+LAB3 DEPLOY AZURE 
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://ietilab11.z20.web.core.windows.net)
+
+
+LAB4 DEPLOY AZURE 
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://lab4ieti.z20.web.core.windows.net)
+
+CREDENTIALS :
+
+chan@mail.com
+chan123
 
 ## Available Scripts
 
